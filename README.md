@@ -4,4 +4,4 @@ Earth Day is an annual event on April 22 to demonstrate support for environmenta
 
 ### Earth Day 2021
 
-![Image of output](https://octodex.github.com/images/yaktocat.png)
+![Image of output](https://github.com/TheAppWizard/EarthDaySwiftUI/blob/main/output.png)
